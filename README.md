@@ -94,8 +94,9 @@ The *Saccharomyces cerevisiae* (yeast) core PPI dataset was downloaded from the 
 
 ```bibtex
 @article{LlamaCrossAttn2026,
-  title   = {LlamaCrossAttn: A Dual-Stream Cross-Attention Framework for Antibody–Antigen Modeling},
-  author  = {Hossain},
+  title   = {LlamaCrossAttn: A Dual-Stream AI Framework for Multi-Perspective Antibody Functional Landscapes
+},
+  author  = {Delower Hossain, Sixue Zhang, Jake Y Chen},
   journal = {Journal to be added},
   year    = {2026}
 }
